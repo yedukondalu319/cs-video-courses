@@ -285,6 +285,7 @@ Courses
 	- [Information Theory, Pattern Recognition, and Neural Networks - University of Cambridge](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
 	- [Python and machine learning - Stanford Crowd Course Initiative](https://www.youtube.com/playlist?list=PLVxFQjPUB2cnYGZPAGG52OQc9SpWVKjjB)
 	- [MOOC - Machine Learning Part 1a - Udacity/Georgia Tech](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo) ([Part 1b](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O) [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7) [Part 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp))
+	- [MOOC - Machine Learning Part 1a - Simpliv/Georgia Tech](https://www.youtube.com/watch?v=UUEzoWZfbgM) 
 	- [Machine Learning and Pattern Recognition 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/mlpr.htm)
 	- [Introductory Applied Machine Learning 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/iaml.htm)
 	- [Pattern Recognition Class (2012)- Universität Heidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kRDZVU6wxPzGdx1CN12fn0w)
